@@ -1,8 +1,10 @@
 <h1>Hey there, I am Aman Pandey 👋</h1>
 
-<img align="right" alt="https://github.com/amanpandey-crypto/" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey-crypto&langs_count=8&show_icons=true&theme=radical" width="400" height="345" />
+<img align="right" alt="https://github.com/amanpandey-crypto/" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey-crypto&langs_count=8&show_icons=true&theme=radical" width="350" height="350" />
 
 ![](https://komarev.com/ghpvc/?username=your-github-amanpandey-crypto)
+<br />
+
 [Resume](https://drive.google.com/file/d/1caRsug7Y2PpacJPiK9l6aDCkQkbP2ftR/view)
 
 - 🔭 I’m currently working on 
@@ -16,12 +18,12 @@
  [<img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30px" alt="facebook"/> ](https://www.linkedin.com/in/aman-chandra-pandey-68112718b/) 
 [<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="30px" alt="twitter"/> ](https://twitter.com/DecodeitAman)
 [<img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" width="30px" alt="instagram"/> ](https://www.instagram.com/amanpandey8651/)
-<br />
 
 
-## Languages and Tools:
+<hr />
+<div align="center">
 
-<div align="left">
+### Languages and Tools:
 
 <img  alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img  alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -53,7 +55,7 @@
 ### Productivity Stats
 
 
-![Aman's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanpandey-crypto)
+![Aman's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanpandey-crypto&theme=dark)
 
 </div>
 
