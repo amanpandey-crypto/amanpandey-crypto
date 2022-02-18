@@ -1,6 +1,6 @@
 <h1>Hey there, I am Aman Pandey 👋</h1>
 
-<img align="right" alt="https://github.com/amanpandey-crypto/" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey-crypto&langs_count=8&show_icons=true&theme=radical" width="300" height="250" />
+<img align="right" alt="https://github.com/amanpandey-crypto/" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey-crypto&langs_count=8&show_icons=true&theme=radical" width="380" height="300" />
 
 ![](https://komarev.com/ghpvc/?username=your-github-amanpandey-crypto)
 <br />
@@ -19,8 +19,6 @@
 [<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="30px" alt="twitter"/> ](https://twitter.com/DecodeitAman)
 [<img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" width="30px" alt="instagram"/> ](https://www.instagram.com/amanpandey8651/)
 
-<br/>
-<br/>
 <hr />
 
 ### Languages and Tools
