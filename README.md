@@ -19,7 +19,7 @@
 <br />
 
 
-### Languages and Tools:
+## Languages and Tools:
 
 <div align="left">
 
@@ -43,11 +43,6 @@
 ### Contributions
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanpandey-crypto&theme=radical&fire=DD2727" alt="amanpandey-crypto" />
-</div>
-<hr/>
-<div align="center">
- 
- ### GitHub Stats
 
  <img  alt="Aman's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amanpandey-crypto&show_icons=true&theme=radical&fire=DD2727" />
 
@@ -58,7 +53,7 @@
 ### Productivity Stats
 
 
-![Aman's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanpandey-crypto&theme=radical)
+![Aman's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanpandey-crypto)
 
 </div>
 
