@@ -17,12 +17,11 @@
 [<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="30px" alt="twitter"/> ](https://twitter.com/DecodeitAman)
 [<img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" width="30px" alt="instagram"/> ](https://www.instagram.com/amanpandey8651/)
 <br />
-<br />
-<hr/>
+
 
 ### Languages and Tools:
 
-<div align="center">
+<div align="left">
 
 <img  alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img  alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -38,7 +37,7 @@
 <br /> 
 </div>
 
-
+<hr/>
 <div align="center">
 
 ### Contributions
