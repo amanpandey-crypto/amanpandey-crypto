@@ -32,12 +32,9 @@
 <img align="left" alt="monokai" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" src="https://cdn.worldvectorlogo.com/logos/material-ui.svg" alt="xd" width="40" height="40"/> 
-
+<img align="left" alt="django" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
  <br />
 <br /> 
 </div>
@@ -48,14 +45,14 @@
 
 ### Contributions
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanpandey-crypto&theme=monokai&hide_border=true&fire=DD2727" alt="amanpandey-crypto" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanpandey-crypto&theme=radical&fire=DD2727" alt="amanpandey-crypto" />
 </div>
 <hr/>
 <div align="center">
  
  ### GitHub Stats
 
- <img  alt="Aman's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amanpandey-crypto&show_icons=true&hide_border=true&theme=radical&hide_border=true&fire=DD2727" />
+ <img  alt="Aman's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amanpandey-crypto&show_icons=true&theme=radical&hide_border=true&fire=DD2727" />
 
 </div>
 <div align="center">
@@ -64,7 +61,7 @@
 ### Productivity Stats
 
 
-[Aman's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanpandey-crypto&theme=radical)
+![Aman's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanpandey-crypto&theme=radical)
 
 </div>
 <br/>
@@ -75,14 +72,14 @@
 
 
  <a href="https://github.com/amanpandey-crypto/">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey-crypto&langs_count=20&show_icons=true&hide_border=true&theme=radical&hide_border=true&fire=DD2727&layout=compact&custom_title=Most used languages on GitHub" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey-crypto&langs_count=20&show_icons=true&theme=radical&hide_border=true&fire=DD2727&layout=compact&custom_title=Most used languages on GitHub" />
     </a>
 </div>
 <br/>
  <hr/>
  
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amanpandey-crypto&theme=radical&hide_border=true&count_private=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amanpandey-crypto&theme=radical&count_private=true)  
 
 <details>
 <summary>Detailed Summary</summary>
