@@ -19,7 +19,8 @@
 [<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="30px" alt="twitter"/> ](https://twitter.com/DecodeitAman)
 [<img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" width="30px" alt="instagram"/> ](https://www.instagram.com/amanpandey8651/)
 
-
+<br/>
+<br/>
 <hr />
 <div align="center">
 
@@ -42,10 +43,8 @@
 <hr/>
 <div align="center">
 
-### Contributions
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanpandey-crypto&theme=radical&fire=DD2727" alt="amanpandey-crypto" />
-
+<br/>
  <img  alt="Aman's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amanpandey-crypto&show_icons=true&theme=radical&fire=DD2727" />
 
 </div>
@@ -54,8 +53,7 @@
  
 ### Productivity Stats
 
-
-![Aman's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanpandey-crypto&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanpandey-crypto&theme=monokai)
 
 </div>
 
