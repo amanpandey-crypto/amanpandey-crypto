@@ -1,31 +1,23 @@
 <h1>Hey there, I am Aman Pandey 👋</h1>
 
+![](https://komarev.com/ghpvc/?username=your-github-amanpandey-crypto)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: [<img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" width="30px" alt="facebook"/> ](https://www.facebook.com/profile.php?id=100006235937640) 
+ [<img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30px" alt="facebook"/> ](https://www.linkedin.com/in/aman-chandra-pandey-68112718b/) 
+[<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="30px" alt="twitter"/> ](https://twitter.com/DecodeitAman)
+[<img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" width="30px" alt="instagram
+ "/> ](https://www.instagram.com/amanpandey8651/)
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 
-
- <img align="right" alt="GIF" src="ezgif.com-gif-maker (4).gif" width="400" height="345" />
-
-![](https://komarev.com/ghpvc/?username=your-github-amanpandey-crypto)
-
-[My Resume!](https://drive.google.com/file/d/1b_XCmwvL35Zko2uNPnYyvuiQFoUAlT86/view?usp=sharing)
-
-- 🌱 I’m currently learning everything!
-- 👯 I’m looking to collaborate on DAPPs or AWS
-- 💬 Ask me about Anything
-- 📫 How to reach me: [<img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" width="30px" alt="facebook"/> ](https://www.facebook.com/theseregrets) 
- [<img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30px" alt="facebook"/> ](https://www.linkedin.com/in/theseregrets/) 
-[<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="30px" alt="twitter"/> ](https://twitter.com/theseregrets)
-[<img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" width="30px" alt="instagram
- "/> ](https://www.instagram.com/these_regrets/)
+[My Resume!](https://drive.google.com/file/d/1caRsug7Y2PpacJPiK9l6aDCkQkbP2ftR/view)
 
 
 <br />
