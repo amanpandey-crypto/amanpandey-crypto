@@ -1,6 +1,6 @@
 <h1>Hey there, I am Aman Pandey 👋</h1>
 
-<img align="right" alt="https://github.com/amanpandey-crypto/" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey-crypto&langs_count=8&show_icons=true&theme=radical" width="350" height="350" />
+<img align="right" alt="https://github.com/amanpandey-crypto/" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey-crypto&langs_count=8&show_icons=true&theme=radical" width="300" height="250" />
 
 ![](https://komarev.com/ghpvc/?username=your-github-amanpandey-crypto)
 <br />
@@ -22,10 +22,10 @@
 <br/>
 <br/>
 <hr />
+
+### Languages and Tools
+
 <div align="center">
-
-### Languages and Tools:
-
 <img  alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img  alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img  alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -56,10 +56,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanpandey-crypto&theme=monokai)
 
 </div>
-
-<br/>
  <hr/>
- 
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amanpandey-crypto&theme=redical&count_private=true)  
 
