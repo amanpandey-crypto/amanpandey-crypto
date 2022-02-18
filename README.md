@@ -1,6 +1,6 @@
 <h1>Hey there, I am Aman Pandey 👋</h1>
 
-<img align="right" alt="https://github.com/amanpandey-crypto/" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey-crypto&langs_count=8" width="400" height="345" />
+<img align="right" alt="https://github.com/amanpandey-crypto/" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey-crypto&langs_count=8&show_icons=true&theme=radical" width="400" height="345" />
 
 ![](https://komarev.com/ghpvc/?username=your-github-amanpandey-crypto)
 [Resume](https://drive.google.com/file/d/1caRsug7Y2PpacJPiK9l6aDCkQkbP2ftR/view)
@@ -16,7 +16,8 @@
  [<img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30px" alt="facebook"/> ](https://www.linkedin.com/in/aman-chandra-pandey-68112718b/) 
 [<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="30px" alt="twitter"/> ](https://twitter.com/DecodeitAman)
 [<img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" width="30px" alt="instagram"/> ](https://www.instagram.com/amanpandey8651/)
-
+<br />
+<br />
 <hr/>
 
 ### Languages and Tools:
@@ -61,17 +62,7 @@
 ![Aman's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanpandey-crypto&theme=radical)
 
 </div>
-<br/>
-<div align="center">
- <hr/>
- 
-### Most Used Languages
 
-
- <a href="https://github.com/amanpandey-crypto/">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey-crypto&langs_count=20&show_icons=true&theme=radical&hide_border=true&fire=DD2727&layout=compact&custom_title=Most used languages on GitHub" />
-    </a>
-</div>
 <br/>
  <hr/>
  
