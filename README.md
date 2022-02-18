@@ -12,19 +12,13 @@
 [<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="30px" alt="twitter"/> ](https://twitter.com/DecodeitAman)
 [<img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" width="30px" alt="instagram
  "/> ](https://www.instagram.com/amanpandey8651/)
-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-[My Resume!](https://drive.google.com/file/d/1caRsug7Y2PpacJPiK9l6aDCkQkbP2ftR/view)
-
+[Resume](https://drive.google.com/file/d/1caRsug7Y2PpacJPiK9l6aDCkQkbP2ftR/view)
 
 <br />
-
  <hr/>
- 
-
 
 ### Languages and Tools:
 
@@ -60,10 +54,6 @@
 <br /> 
 </div>
 
-
-<br />
-<br />
-<hr/>
 
 <div align="center">
 
