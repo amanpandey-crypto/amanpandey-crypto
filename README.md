@@ -7,13 +7,13 @@
 
 [Resume](https://drive.google.com/file/d/1caRsug7Y2PpacJPiK9l6aDCkQkbP2ftR/view)
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Software development 
+- 🌱 I’m currently learning New Technologies
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: An accomplishment I'm most proud of is teaching myself how to be motivated in tough times.
 - 📫 How to reach me: [<img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" width="30px" alt="facebook"/> ](https://www.facebook.com/profile.php?id=100006235937640) 
  [<img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30px" alt="facebook"/> ](https://www.linkedin.com/in/aman-chandra-pandey-68112718b/) 
 [<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="30px" alt="twitter"/> ](https://twitter.com/DecodeitAman)
