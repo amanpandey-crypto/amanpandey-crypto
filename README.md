@@ -1,16 +1,15 @@
 <h1>Hey there, I am Aman Pandey 👋</h1>
 
-<img align="right" alt="https://github.com/amanpandey-crypto/" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey-crypto&langs_count=5&show_icons=true&theme=radical&hide=css,html" width="380" height="300" />
+<img align="right" alt="https://github.com/amanpandey-crypto/" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey-crypto&langs_count=5&show_icons=true&theme=radical&hide=css,html,c" width="380" height="300" />
 
 ![](https://komarev.com/ghpvc/?username=your-github-amanpandey-crypto)
 <br />
 
 [Resume](https://drive.google.com/file/d/1caRsug7Y2PpacJPiK9l6aDCkQkbP2ftR/view)
 
-- 🔭 I’m currently working on Software development 
-- 🌱 I’m currently learning New Technologies
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on Docker, Apache Kafka, FastApi, VueJs
+- 🌱 I’m currently learning VueJs
+- 🤔 I’m looking for help with Problem Solving
 - 💬 Ask me about ...
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: An accomplishment I'm most proud of is teaching myself how to be motivated in tough times.
