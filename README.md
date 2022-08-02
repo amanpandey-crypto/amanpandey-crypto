@@ -24,7 +24,7 @@
 ### Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,c,py,cpp,js,django,flask,fastapi,react,vue,mongodb,mysql,sqlite,html,css,sass,heroku,aws,bash,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,docker,c,py,cpp,js,django,flask,fastapi,react,vue,mongodb,mysql,sqlite,html,css,sass,heroku,aws,bash,vscode" />
 <br /> 
 </div>
 
