@@ -17,7 +17,7 @@
 - 📫 How to reach me: [<img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" width="30px" alt="facebook"/> ](https://www.facebook.com/profile.php?id=100006235937640) 
  [<img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30px" alt="facebook"/> ](https://www.linkedin.com/in/aman-chandra-pandey-68112718b/) 
 [<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="30px" alt="twitter"/> ](https://twitter.com/DecodeitAman)
-[<img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" width="30px" alt="instagram"/> ](https://www.instagram.com/amanpandey8651/)
+[<img align="center" src="https://skillicons.dev/icons?i=instagram" width="30px" alt="instagram"/> ](https://www.instagram.com/amanpandey8651/)
 
 <hr />
 
@@ -25,7 +25,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c,python,cpp,html,css,arduino,aws,bash,bootstrap,django,flask,fastapi,react,vue,mongodb,mysql," />
+    <img src="https://skillicons.dev/icons?i=git,docker,c,python,cpp,html,css,arduino,aws,bash,bootstrap,django,flask,fastapi,react,vue,mongodb,mysql" />
   </a>
 <br /> 
 </div>
