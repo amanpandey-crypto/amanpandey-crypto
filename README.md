@@ -24,9 +24,7 @@
 ### Languages and Tools
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c,python,cpp,html,css,arduino,aws,bash,bootstrap,django,flask,fastapi,react,vue,mongodb,mysql" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,docker,c,python,cpp,html,css,arduino,aws,bash,bootstrap,django,flask,fastapi,react,vue,mongodb,mysql" />
 <br /> 
 </div>
 
