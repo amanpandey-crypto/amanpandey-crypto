@@ -1,6 +1,6 @@
 <h1>Hey there, I am Aman Pandey 👋</h1>
 
-<img align="right" alt="https://github.com/amanpandey-crypto/" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey-crypto&langs_count=5&count_private=true&show_icons=true&theme=radical&hide=css,html,c" width="380" height="300" />
+<img align="right" alt="https://github.com/amanpandey-crypto/" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey-crypto&langs_count=5&show_icons=true&theme=radical&hide=css,html,c" width="380" height="300" />
 
 ![](https://komarev.com/ghpvc/?username=your-github-amanpandey-crypto)
 <br />
