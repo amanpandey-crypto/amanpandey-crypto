@@ -13,7 +13,7 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: An accomplishment I'm most proud of is teaching myself how to be motivated in tough times.
-- 📫 How to reach me: [<img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" width="30px" alt="facebook"/> ](https://www.facebook.com/profile.php?id=100006235937640) 
+- 📫 How to reach me:
  [<img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30px" alt="facebook"/> ](https://www.linkedin.com/in/aman-chandra-pandey-68112718b/) 
 [<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="30px" alt="twitter"/> ](https://twitter.com/DecodeitAman)
 [<img align="center" src="https://skillicons.dev/icons?i=instagram" width="30px" alt="instagram"/> ](https://www.instagram.com/amanpandey8651/)
