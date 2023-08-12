@@ -16,7 +16,7 @@
 - 📫 How to reach me:
  [<img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30px" alt="LinkedIn"/> ](https://www.linkedin.com/in/iamanchandrapandey/) 
 [<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="30px" alt="twitter"/> ]([https://twitter.com/DecodeitAman](https://twitter.com/iaman_pandey)
-[<img align="center" src="https://skillicons.dev/icons?i=instagram" width="30px" alt="instagram"/> ]([https://www.instagram.com/amanpandey8651/](https://www.instagram.com/__aman.pandey/))
+[<img align="center" src="https://skillicons.dev/icons?i=instagram" width="30px" alt="instagram"/> ]([https://www.instagram.com/amanpandey8651/](https://www.instagram.com/__aman.pandey/)
 
 <hr />
 
