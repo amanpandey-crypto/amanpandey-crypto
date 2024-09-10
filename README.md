@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-amanpandey-crypto)
 <br />
 
-[Resume](https://drive.google.com/file/d/1caRsug7Y2PpacJPiK9l6aDCkQkbP2ftR/view)
+[Resume](https://drive.google.com/file/d/1caRsug7Y2PpacJPiK9l6aDCkQkbP2ftR/view?usp=sharing)
 
 - 🔭 I’m currently working on Docker, Apache Kafka, FastApi, VueJs
 - 🌱 I’m currently learning VueJs
