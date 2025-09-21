@@ -12,13 +12,19 @@
 </p>
 
 <div align="center">
-
-<!-- Profile Views -->
-![Profile views](https://komarev.com/ghpvc/?username=amanpandey-crypto&label=Profile%20views&color=0e75b6&style=for-the-badge)
-
+  
+  ![Profile views](https://komarev.com/ghpvc/?username=amanpandey-crypto&label=Profile%20views&color=0e75b6&style=for-the-badge)
+  ![Followers](https://img.shields.io/github/followers/amanpandey-crypto?label=Followers&style=for-the-badge)
+  ![Stars](https://img.shields.io/github/stars/amanpandey-crypto/amanpandey-crypto?label=Stars&style=for-the-badge)
+  ![Forks](https://img.shields.io/github/forks/amanpandey-crypto/amanpandey-crypto?label=Forks&style=for-the-badge)
+  ![Open Issues](https://img.shields.io/github/issues/amanpandey-crypto/amanpandey-crypto?label=Open%20Issues&style=for-the-badge)
+  ![PRs](https://img.shields.io/github/issues-pr/amanpandey-crypto/amanpandey-crypto?label=Open%20PRs&style=for-the-badge)
 </div>
 
 ## 👋 About Me
+
+
+<img align="right" alt="https://github.com/amanpandey-crypto/" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey-crypto&langs_count=5&show_icons=true&theme=radical&hide=css,html,c" width="380" height="300" />
 
 😄 **Pronouns:** He/His
 
@@ -29,7 +35,7 @@
 - Setting up CI/CD and Docker for projects
 - Basics of system design and cloud platforms (AWS, GCP)
 
-Passionate about backend development and DevOps, I enjoy tackling real-world challenges by building reliable and scalable systems. With over 2 years of professional experience, I specialize in designing clean architecture, integrating message queues, and automating deployment pipelines to deliver robust solutions.
+Passionate about backend development and DevOps, I enjoy tackling real-world challenges by building reliable and scalable systems. With over 2 years of professional experience, I specialize in designing and implementing robust backend architectures.
 
 ---
 
@@ -169,12 +175,8 @@ Passionate about backend development and DevOps, I enjoy tackling real-world cha
 ## 📈 GitHub & Productivity Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey-crypto&langs_count=5&show_icons=true&theme=radical&hide=css,html,c" width="400" height="300"/>
   <img src="https://github-readme-stats.vercel.app/api?username=amanpandey-crypto&show_icons=true&theme=radical" width="450"/>
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpandey-crypto&theme=radical&fire=DD2727" width="700"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpandey-crypto&theme=radical&fire=DD2727" width="450"/>
 </div>
 <br>
 <div align="center">
