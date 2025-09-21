@@ -15,7 +15,6 @@
  [<img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30px" alt="LinkedIn"/> ](https://www.linkedin.com/in/iamanchandrapandey/) 
 [<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="30px" alt="twitter"/> ](https://twitter.com/the_quite_tone)
 [<img align="center" src="https://skillicons.dev/icons?i=instagram" width="30px" alt="instagram"/> ](https://www.instagram.com/the_quite_tone/)
-[<img align="center" src="https://skillicons.dev/icons?i=medium" width="30px" alt="instagram"/> ](https://medium.com/@iamanpandey)
 
 <hr />
 
