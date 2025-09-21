@@ -175,8 +175,8 @@ Passionate about backend development and DevOps, I enjoy tackling real-world cha
 ## 📈 GitHub & Productivity Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanpandey-crypto&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpandey-crypto&theme=radical&fire=DD2727" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amanpandey-crypto&show_icons=true&theme=radical" width="420"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpandey-crypto&theme=radical&fire=DD2727" width="420"/>
 </div>
 <br>
 <div align="center">
